@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+by my email id at3072467@gmail.com
 
 <!---
 TheAnkitThakur/TheAnkitThakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
